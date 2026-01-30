@@ -1,0 +1,10 @@
+   ##commands-of-gits
+    
+   git add [file_name]
+   git status
+   git rm --cached [file_name]
+   git add .
+   git commit -m "message"
+   rm [file_name]
+   ls
+   git restore testing.py
