@@ -15,4 +15,4 @@
         [e.g git remote set-url origin https://tokenurl@github.com/MdAdnanImteyaz/git-for-devops.git
    git push origin master
 
-this is some new changes 
+this is somenew changes 
