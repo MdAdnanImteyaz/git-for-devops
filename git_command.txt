@@ -8,3 +8,11 @@
    rm [file_name]
    ls
    git restore testing.py
+ git remote -v
+   git branch -M main
+   git branch -M master
+   git remote set-url origin (use token url)
+        [e.g git remote set-url origin https://tokenurl@github.com/MdAdnanImteyaz/git-for-devops.git
+   git push origin master
+
+this is some new changes 
